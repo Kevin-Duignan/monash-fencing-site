@@ -5,11 +5,11 @@ import { StaticImage } from "gatsby-plugin-image";
 
 const AboutPage = () => {
   return (
-    <Layout pageTitle="About Me">
+    <Layout pageTitle="About the Club">
       <p>I made this bitch with Gatsby. -Kevin the Club Secretary</p>
       <StaticImage
-        alt="Two female foil fencers in close combat, one is standing high, attempting a parry, while the other is in a lunge, with her blade bent and on target."
-        src="https://upload.wikimedia.org/wikipedia/commons/2/24/Final_2013_Fencing_WCH_FMS-IN_t200907.jpg"
+        alt="Monash fencers posing, from left to right: Rhys, Daniel (with silver medal), Kevin (with gold medal), Chloe, and Warren (Club coach)"
+        src="/Users/kevinnguyen/Downloads/34817541.jpg"
       />
     </Layout>
   );
